@@ -1,42 +1,42 @@
-<?xml version="1.0" encoding="UTF-8"?>\
-<urlset\
-  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"\
-  xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">\
-\
-  <url>\
-    <loc>https://soulpublications.co/blog/soul-publications-film-representation</loc>\
-    <news:news>\
-      <news:publication>\
-        <news:name>SOUL Publications</news:name>\
-        <news:language>en</news:language>\
-      </news:publication>\
-      <news:publication_date>2025-06-07T00:00:00Z</news:publication_date>\
-      <news:title>Setting the Record Straight: Soul Publications and Film Representation</news:title>\
-    </news:news>\
-  </url>\
-\
-  <url>\
-    <loc>https://soulpublications.co/blog/carlton-jumel-smith-ignites-new-summer-anthems</loc>\
-    <news:news>\
-      <news:publication>\
-        <news:name>SOUL Publications</news:name>\
-        <news:language>en</news:language>\
-      </news:publication>\
-      <news:publication_date>2025-06-05T00:00:00Z</news:publication_date>\
-      <news:title>Carlton Jumel Smith Ignites With New Summer Anthems</news:title>\
-    </news:news>\
-  </url>\
-\
-  <url>\
-    <loc>https://soulpublications.co/blog/patti-drew-tell-em-dies-80-2025-rnb-soul</loc>\
-    <news:news>\
-      <news:publication>\
-        <news:name>SOUL Publications</news:name>\
-        <news:language>en</news:language>\
-      </news:publication>\
-      <news:publication_date>2025-06-20T00:00:00Z</news:publication_date>\
-      <news:title>R&B Singer Patti Drew Dies at 80 (1944\'962025): 'Tell Him' Star and Soul Pioneer</news:title>\
-    </news:news>\
-  </url>\
-\
-</urlset>}
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+
+  <url>
+    <loc>https://soulpublications.co/blog/soul-publications-film-representation</loc>
+    <news:news>
+      <news:publication>
+        <news:name>SOUL Publications</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-07T00:00:00Z</news:publication_date>
+      <news:title>Setting the Record Straight: Soul Publications and Film Representation</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://soulpublications.co/blog/carlton-jumel-smith-ignites-new-summer-anthems</loc>
+    <news:news>
+      <news:publication>
+        <news:name>SOUL Publications</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-05T00:00:00Z</news:publication_date>
+      <news:title>Carlton Jumel Smith Ignites With New Summer Anthems</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://soulpublications.co/blog/patti-drew-tell-em-dies-80-2025-rnb-soul</loc>
+    <news:news>
+      <news:publication>
+        <news:name>SOUL Publications</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-20T00:00:00Z</news:publication_date>
+      <news:title>R&amp;B Singer Patti Drew Dies at 80 (1944–2025): ‘Tell Him’ Star and Soul Pioneer</news:title>
+    </news:news>
+  </url>
+
+</urlset>
